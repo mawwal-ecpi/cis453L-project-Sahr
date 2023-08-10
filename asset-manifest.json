@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cis453L-project-Sahr/static/css/main.a0a01a95.css",
+    "main.js": "/cis453L-project-Sahr/static/js/main.52d1ebaf.js",
+    "index.html": "/cis453L-project-Sahr/index.html",
+    "main.a0a01a95.css.map": "/cis453L-project-Sahr/static/css/main.a0a01a95.css.map",
+    "main.52d1ebaf.js.map": "/cis453L-project-Sahr/static/js/main.52d1ebaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a01a95.css",
+    "static/js/main.52d1ebaf.js"
+  ]
+}
